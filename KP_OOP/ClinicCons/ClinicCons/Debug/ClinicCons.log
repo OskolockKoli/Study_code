@@ -1,0 +1,4 @@
+﻿  PRegistration.cpp
+C:\Users\User\source\repos\KP_OOP\ClinicCons\ClinicCons\Category.h(43): warning C4716: operator<<: должна возвращать значение
+C:\Users\User\source\repos\KP_OOP\ClinicCons\ClinicCons\District.h(33): warning C4716: operator<<: должна возвращать значение
+  ClinicCons.vcxproj -> C:\Users\User\source\repos\KP_OOP\ClinicCons\Debug\ClinicCons.exe

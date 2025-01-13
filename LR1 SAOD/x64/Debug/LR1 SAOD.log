@@ -1,0 +1,3 @@
+﻿  LR1 SAOD.cpp
+C:\Users\User\source\repos\LR1 SAOD\LR1 SAOD.cpp(30,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LR1 SAOD.vcxproj -> C:\Users\User\source\repos\LR1 SAOD\x64\Debug\LR1 SAOD.exe

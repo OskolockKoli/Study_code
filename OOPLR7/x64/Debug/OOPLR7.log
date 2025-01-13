@@ -1,0 +1,3 @@
+﻿  OOPLR7.cpp
+C:\Users\User\source\repos\OOPLR7\OOPLR7.cpp(43,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OOPLR7.vcxproj -> C:\Users\User\source\repos\OOPLR7\x64\Debug\OOPLR7.exe

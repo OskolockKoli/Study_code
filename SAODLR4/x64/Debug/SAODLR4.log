@@ -1,0 +1,4 @@
+﻿  SAODLR4.cpp
+C:\Users\User\source\repos\SAODLR4\SAODLR4.cpp(29,124): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\SAODLR4\SAODLR4.cpp(172,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SAODLR4.vcxproj -> C:\Users\User\source\repos\SAODLR4\x64\Debug\SAODLR4.exe

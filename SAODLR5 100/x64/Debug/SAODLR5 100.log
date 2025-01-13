@@ -1,0 +1,4 @@
+﻿  SAODLR5 100.cpp
+C:\Users\User\source\repos\SAODLR5 100\SAODLR5 100.cpp(80,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\SAODLR5 100\SAODLR5 100.cpp(128,15): warning C4804: <: небезопасное использование типа "bool" в операции
+  SAODLR5 100.vcxproj -> C:\Users\User\source\repos\SAODLR5 100\x64\Debug\SAODLR5 100.exe

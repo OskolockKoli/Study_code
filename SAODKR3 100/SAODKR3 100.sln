@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SAODKR3 100", "SAODKR3 100.vcxproj", "{959B4110-D0D6-4216-ADFB-1A5EA6B40AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959B4110-D0D6-4216-ADFB-1A5EA6B40AB6}.Debug|x64.ActiveCfg = Debug|x64
+		{959B4110-D0D6-4216-ADFB-1A5EA6B40AB6}.Debug|x64.Build.0 = Debug|x64
+		{959B4110-D0D6-4216-ADFB-1A5EA6B40AB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{959B4110-D0D6-4216-ADFB-1A5EA6B40AB6}.Debug|x86.Build.0 = Debug|Win32
+		{959B4110-D0D6-4216-ADFB-1A5EA6B40AB6}.Release|x64.ActiveCfg = Release|x64
+		{959B4110-D0D6-4216-ADFB-1A5EA6B40AB6}.Release|x64.Build.0 = Release|x64
+		{959B4110-D0D6-4216-ADFB-1A5EA6B40AB6}.Release|x86.ActiveCfg = Release|Win32
+		{959B4110-D0D6-4216-ADFB-1A5EA6B40AB6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0F7485-601E-4BC1-BCDE-5102D5E12009}
+	EndGlobalSection
+EndGlobal

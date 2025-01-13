@@ -1,0 +1,5 @@
+﻿  SAODLR2 100.cpp
+C:\Users\User\source\repos\SAODLR2 100\SAODLR2 100.cpp(129,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\SAODLR2 100\SAODLR2 100.cpp(134,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\SAODLR2 100\SAODLR2 100.cpp(154,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  SAODLR2 100.vcxproj -> C:\Users\User\source\repos\SAODLR2 100\x64\Debug\SAODLR2 100.exe

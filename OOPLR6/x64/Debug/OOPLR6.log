@@ -1,0 +1,5 @@
+﻿  OOPLR6.cpp
+C:\Users\User\source\repos\OOPLR6\OOPLR6.cpp(88,29): warning C4101: err1: неиспользованная локальная переменная
+C:\Users\User\source\repos\OOPLR6\OOPLR6.cpp(96,29): warning C4101: err1: неиспользованная локальная переменная
+C:\Users\User\source\repos\OOPLR6\OOPLR6.cpp(56): warning C4715: f1: значение возвращается не при всех путях выполнения
+  OOPLR6.vcxproj -> C:\Users\User\source\repos\OOPLR6\x64\Debug\OOPLR6.exe

@@ -1,0 +1,5 @@
+Ivanov Ivan Sergeevich Lenina,77 123456
+Petrov Artem Semenovich Lenina,71 123457
+Sergeeva Irina Alekseevna Lenina,25 123458
+Istomina Maria Ivanovna Matrosova,77 123459
+Alehina Daria Sergeevna Lazurnaya,77 123450

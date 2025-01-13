@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SAODLR2 100", "SAODLR2 100.vcxproj", "{564C75CC-57CC-4B4C-9C59-CD63D1FC59ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564C75CC-57CC-4B4C-9C59-CD63D1FC59ED}.Debug|x64.ActiveCfg = Debug|x64
+		{564C75CC-57CC-4B4C-9C59-CD63D1FC59ED}.Debug|x64.Build.0 = Debug|x64
+		{564C75CC-57CC-4B4C-9C59-CD63D1FC59ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{564C75CC-57CC-4B4C-9C59-CD63D1FC59ED}.Debug|x86.Build.0 = Debug|Win32
+		{564C75CC-57CC-4B4C-9C59-CD63D1FC59ED}.Release|x64.ActiveCfg = Release|x64
+		{564C75CC-57CC-4B4C-9C59-CD63D1FC59ED}.Release|x64.Build.0 = Release|x64
+		{564C75CC-57CC-4B4C-9C59-CD63D1FC59ED}.Release|x86.ActiveCfg = Release|Win32
+		{564C75CC-57CC-4B4C-9C59-CD63D1FC59ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A495541-CAB4-4DF8-9019-150FF75D7179}
+	EndGlobalSection
+EndGlobal

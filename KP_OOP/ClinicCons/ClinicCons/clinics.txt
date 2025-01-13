@@ -1,0 +1,4 @@
+Tsentralnii 1 Bolnitsa1
+Octiabrskii 4 Bolnitsa2
+Zheleznodorozhnii 8 Bolnitsa3
+Promishlennii 4 Bolnitsa4

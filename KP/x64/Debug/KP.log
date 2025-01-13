@@ -1,0 +1,6 @@
+﻿  KP.cpp
+C:\Users\User\source\repos\KP\KP.cpp(379): warning C4715: Clientcheck: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\KP\KP.cpp(720): warning C4715: Carcheck: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\KP\KP.cpp(2070): warning C4715: Rentcheck: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\KP\KP.cpp(2473): warning C4715: Menu: значение возвращается не при всех путях выполнения
+  KP.vcxproj -> C:\Users\User\source\repos\KP\x64\Debug\KP.exe

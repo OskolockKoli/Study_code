@@ -1,0 +1,3 @@
+﻿  SAODLR6.cpp
+C:\Users\User\source\repos\SAODLR6\SAODLR6.cpp(122): warning C4715: calc_height: значение возвращается не при всех путях выполнения
+  SAODLR6.vcxproj -> C:\Users\User\source\repos\SAODLR6\x64\Debug\SAODLR6.exe

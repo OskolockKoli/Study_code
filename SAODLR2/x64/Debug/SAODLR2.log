@@ -1,0 +1,3 @@
+﻿  SAODLR2.cpp
+C:\Users\User\source\repos\SAODLR2\SAODLR2.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SAODLR2.vcxproj -> C:\Users\User\source\repos\SAODLR2\x64\Debug\SAODLR2.exe
